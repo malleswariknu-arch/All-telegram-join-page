@@ -94,15 +94,21 @@
 <body>
 
 <div class="container">
-    <h1>📌 My Telegram Channels</h1>
+    <h1>ðŸ“Œ My Telegram Channels</h1>
     <p>Click any of the channels below to join instantly!</p>
 
-    
+    <div class="cards">
+        <div class="card">
+            <h2>Main channel</h2>
+            <a href="https://t.me/realcontact506" target="_blank">Join Now</a>
         </div>
         <div class="card">
             <h2>Telugu aunty girls numbers</h2>
             <a href="https://t.me/+TmH-rFmRVCRjYjA1" target="_blank">Join Now</a>
-
+        </div>
+        <div class="card">
+            <h2>channel 2 numbers</h2>
+            <a href="https://t.me/+C8E0cssCzW0yNWRl" target="_blank">Join Now</a>
         </div>
         <div class="card">
             <h2>X videos channel</h2>
